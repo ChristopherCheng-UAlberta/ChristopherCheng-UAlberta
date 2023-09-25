@@ -1,7 +1,8 @@
 ### Hello! I am Chris, welcome to my account!
 
-#### I am a EXSM 3931 student at the University of Alberta. I have acquiring skills to be a Full stack web developer. Hopefully, I can update this account along the way so that those who are interested and myself can follow through on this journey.
+#### I am a EXSM 3931 student at the University of Alberta. I am acquiring skills to be a Full stack web developer. Hopefully, I can update this account along the way so that those who are interested and myself can follow through on this journey.
 
+#### One day, I hope to have 9 monitors like my instructor, James. Seeing his set up was very inspirational. I guess a good place to start would be to acquire an additional video card (maybe a 4090?).
 
 
 
