@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! I am Chris, welcome to my account!
+
+#### I am a EXSM 3931 student at the University of Alberta. I have acquiring skills to be a Full stack web developer. Hopefully, I can update this account along the way so that those who are interested and myself can follow through on this journey.
+
+
+
+
+
+
 
 <!--
 **ChristopherCheng-UAlberta/ChristopherCheng-UAlberta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
